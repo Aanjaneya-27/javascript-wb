@@ -23,7 +23,7 @@ Variable:-
    - cosnst is a type of variable where we can't change our data further.
    - const means constant to store some data like numbers,integers etc.
 
- Rules foe creating variable:-
+ Rules for creating variable:-
   - variable names are case senstive "a", &"A" is diffrent.
   - Only letter,digit,underscore & is allowed.(not even space).
   - Only letter,underscore or $ should be the 1st character only.
