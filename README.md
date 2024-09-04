@@ -154,3 +154,22 @@ Loops in JS :-
     web bocket
     web bocket
     web bocket
+
+While loop:-
+
+
+
+
+
+
+
+Do While loop :-
+  Syntax - 
+  do {
+      statement
+      updation
+  }while (condition)
+
+  for of loop :- it itrate on string and array
+  for in loop :- it itrate over objects (key-value)
+ pair.
